@@ -6,7 +6,7 @@
   },
   "rules": {
     "brace-style": [
-      "error",
+      "off",
       "stroustrup"
     ],
     "comma-dangle": [
